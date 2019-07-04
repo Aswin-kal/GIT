@@ -12,6 +12,8 @@ public class Test1 {
 		WebDriver driver=new ChromeDriver();
 	
 		driver.get("https:\\connect.maveric-systems.com");
+		
+	//wright wat u want notmine
 
 	}
 
