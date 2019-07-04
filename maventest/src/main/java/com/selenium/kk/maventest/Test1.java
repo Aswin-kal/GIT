@@ -15,5 +15,6 @@ public class Test1 {
 		
 	//wright wat u want notmine
 	System.out.println("WE are");	
+	System.out.println("Bill gate");
 	}
 }
