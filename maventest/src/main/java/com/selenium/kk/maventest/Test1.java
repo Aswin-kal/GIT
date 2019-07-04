@@ -14,7 +14,6 @@ public class Test1 {
 		driver.get("https:\\connect.maveric-systems.com");
 		
 	//wright wat u want notmine
-
+	System.out.println("WE are");	
 	}
-
 }
